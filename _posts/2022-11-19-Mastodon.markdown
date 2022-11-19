@@ -3,7 +3,7 @@ layout: post
 title: Mastodon
 date: 2022-05-25 13:32:20 +0300
 description: Collecting Mastodon resources # Add post description (optional)
-img: # Add image post (optional)
+img: mastodon.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [tech]
 ---
