@@ -15,8 +15,8 @@ social-facebook: frauke.rohden # add your Facebook handle
 social-github: fraukero # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
-social-mastodon: https://scholar.google.com/citations?user=-5F1IZkAAAAJ&hl=en&oi=ao #add Mastodon profile (full link)
-social-gscholar: https://scholar.social/@fraukero #add google scholar profile (full link)
+social-mastodon: https://scholar.social/@fraukero #add Mastodon profile (full link)
+social-gscholar: https://scholar.google.com/citations?user=-5F1IZkAAAAJ&hl=en&oi=ao #add google scholar profile (full link)
 
 # Disqus
 discus-identifier: # add your discus identifier
