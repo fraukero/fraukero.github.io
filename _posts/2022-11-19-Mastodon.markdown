@@ -1,0 +1,35 @@
+---
+layout: post
+title: Mastodon
+date: 2022-05-25 13:32:20 +0300
+description: Collecting Mastodon resources # Add post description (optional)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [tech]
+---
+
+Collecting some helpful resources for getting started with Mastodon:
+
+* Finding Twitter accounts I follow that have Mastodon handles in their profile: https://fedifinder.glitch.me/
+* Lists of academic Mastodon accounts: https://github.com/nathanlesage/academics-on-mastodon
+* List of German profiles by category: https://mastodir.de/
+* Fedi Tips - explanations and tips on all things fediverse: https://fedi.tips/
+
+
+
+This is my first post, trying out the website for the first time.
+
+##Hello world!
+
+
+![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+
+
+>more text here...
+
+And a list
+
+* Item 1
+* Item 2
+
+[I'm an inline-style link](https://www.google.com)
