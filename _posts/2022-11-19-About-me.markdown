@@ -1,0 +1,21 @@
+---
+layout: post
+title: About Me
+date: 2022-11-19 13:32:20 +0300
+description: About Me # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [personal]
+---
+
+I'm a PhD candidate in Science and Technology Studies (STS) at the University of Oslo. 
+My research interests include: STS, digital methods, computational social science, internet studies, science communication, citizen science.
+
+You can find my publications at [ORCID](https://orcid.org/0000-0002-1532-3940) or [Google Scholar](https://scholar.google.com/citations?user=-5F1IZkAAAAJ&hl=en&oi=ao).
+
+I have profiles on a number of platforms but might be slow to answer on some of them. Happy to connect via e-mail, signal, or telegram!
+* Twitter [@FraukeRohden](https://twitter.com/FraukeRohden)
+* Mastodon [@fraukero@scholar.social](https://scholar.social/@fraukero)
+* Facebook [Frauke Rohden](https://www.facebook.com/frauke.rohden)
+* Github [fraukero](https://github.com/fraukero)
+* ResearchGate [Frauke Rohden](https://www.researchgate.net/profile/Frauke-Rohden)
