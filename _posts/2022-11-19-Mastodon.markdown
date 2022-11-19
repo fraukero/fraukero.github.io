@@ -14,22 +14,3 @@ Collecting some helpful resources for getting started with Mastodon:
 * Lists of academic Mastodon accounts: https://github.com/nathanlesage/academics-on-mastodon
 * List of German profiles by category: https://mastodir.de/
 * Fedi Tips - explanations and tips on all things fediverse: https://fedi.tips/
-
-
-
-This is my first post, trying out the website for the first time.
-
-##Hello world!
-
-
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
-
->more text here...
-
-And a list
-
-* Item 1
-* Item 2
-
-[I'm an inline-style link](https://www.google.com)
