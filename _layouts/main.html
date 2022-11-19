@@ -14,7 +14,7 @@ layout: default
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
+      <h3 class="contact-title">Profiles</h3>
       <ul>
         {% if site.social-twitter %}
           <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -31,6 +31,17 @@ layout: default
         {% else %}
           <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         {% endif %}
+        {% if site.social-mastodon %}
+          <li><a href="{{ site.social-mastodon }}" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://joinmastodon.org/" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.social-gscholar %}
+          <li><a href="{{ site.social-gscholar }}" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://scholar.google.com" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></li>
+        {% endif %}
+
 
       </ul>
     </section> <!-- End Section Contact -->
@@ -42,14 +53,3 @@ layout: default
 <div class="content-box clearfix">
   {{ content }}
 </div>
-
-        # {% if site.social-linkedin %}
-        #  <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-        # {% else %}
-        #  <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        # {% endif %}
-        # {% if site.social-email %}
-        #  <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
-        # {% else %}
-        #  <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-        # {% endif %}
